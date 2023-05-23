@@ -1,0 +1,23 @@
+{
+    "validData": {
+        "loginUsername": "test@1",
+        "loginEmail": "test@123"
+    },
+
+
+    "textOnWebpage": {
+        "newUserSignUpText": "New User Signup!",
+        "homepageText": "Automation",
+        "emailAlreadyExists": "Email Address already exist!",
+        "contactUsHeader": "Get In Touch"
+
+    },
+
+    "contactUsFormData": {
+        "name": "Test12312",
+        "email": "test1233@gmail.com",
+        "subject": "New Title Demo",
+        "message": "this contact is available, check me out!",
+        "afterSubmitMessage": "Success! Your details have been submitted successfully."
+    }
+}

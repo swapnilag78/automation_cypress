@@ -1,0 +1,25 @@
+{
+    "newUser": {
+        "name": "input[placeholder='Name']",
+        "email": "input[data-qa='signup-email']",
+        "button": "button[type='submit']"
+    },
+
+    "homePage": {
+        "loginPage": "a[href='/login']",
+        "contactUs": "a[href='/contact_us']"
+    },
+
+    "contactUsForm": {
+        "name": "input[placeholder='Name']",
+        "email": "input[placeholder='Email']",
+        "subject": "input[placeholder='Subject']",
+        "message": "textarea[placeholder='Your Message Here']",
+        "button": "input[name='upload_file']",
+        "submitBtn": "input[type='submit']",
+        "afterHomeBtn": "i[class='fa fa-angle-double-left']"
+    }
+
+
+
+}
